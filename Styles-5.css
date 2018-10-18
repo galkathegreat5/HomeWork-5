@@ -1,0 +1,26 @@
+body {
+    background-color: #34495e;
+    font-family: verdana;
+    font-weight: bold
+} 
+td {background-color: #e74c3c;
+    color:white;
+    font-size: 14px;
+}
+h1 {color:white;
+    font-size: 40px;
+}
+
+span {
+    text-align:left;
+}
+
+table {border: #34495e;
+        border-collapse: collapse;
+}
+
+.tablecolor {background-color: #34495e;
+}
+
+.personal-data {color: #f1c40f;
+}
